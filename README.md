@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things programming, and finding answers through data manipulation!
 - 🌱 I’m currently too intriguied with github can't stop exploring it's capabilities.
 - 💞️Collaboration is key, let's help each other open doors!
-- 📫 How to reach me ...
+- 📫 www.linkendin.com/in/amelise-williams-sr-216229151
 
 <!---
 amelise07/amelise07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
